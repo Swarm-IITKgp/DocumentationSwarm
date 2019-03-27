@@ -2,8 +2,8 @@
 * Most members won't have maintainers' right. Hence, you will not be able to
 push codes directly to the repository. Instead, you need to fork this repository
 (and star it)
-* Make it a practice to keep your local repository updated with the source repository.
-Ideally you should `git pull` or `git fetch` everytime you start working on any of the folders
+* Make it a practice to keep your local repository updated with the source repository. Ideally you should `git pull` or `git fetch` everytime you start working on any of the folders
+* Read [this](https://guides.github.com/features/mastering-markdown/) to learn how to use Markdown for editing text files like readme.md
 * Check if there is any assigned issues against your name.
 * Make a separate `branch` for each of your contribution. Use `git checkout` to move to your experimental branch
 * Then make changes to any of your code/files/folders and make logical commits (multiple commits if the task is long)
