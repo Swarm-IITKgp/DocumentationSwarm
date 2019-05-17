@@ -10,6 +10,7 @@ A curated list of resources and references relevant to the research we are doing
 - [Patrolling](#patrolling)
 - [Multi Agent Path Planning](#multi-agent-path-planning)
 - [Localization](#localization)
+- [Documentations](#documentations)
 
 ## General Review
 * [An Extensive Research of review in Swarm Robotics (2009)](http://digi.physic.ut.ee/mw/images/d/db/Review.pdf)
@@ -38,3 +39,11 @@ A curated list of resources and references relevant to the research we are doing
 * [Efficient Multi Agent Path Planning (2001)](http://luthuli.cs.uiuc.edu/~daf/papers/pathplan.pdf)
 
 ## Localization
+
+## Documentations
+This sections deals with the documentations of different devices and modules that are frequently used.
+* [Raspberry Pi 3B Setup](https://github.com/shreyase99/DocumentationSwarm/blob/master/Technical/All/Raspberry_Pi_3B_Setup.md)
+* [ESP-8266 Modules]()
+* [oDroid XU4 Setup]()
+* [BeagleBone Black Setup]()
+* [STM32 Microcontroller]()
