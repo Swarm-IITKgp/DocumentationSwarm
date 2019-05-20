@@ -17,8 +17,8 @@ update_config=1
 ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
 network={
  	scan_ssid=1
- 	ssid="ARK_BASE_2" # Wireless SSID
- 	psk="comeflywithus" #Password
+ 	ssid="SSID" # Wireless SSID
+ 	psk="password" #Password
 }
 ```
 
