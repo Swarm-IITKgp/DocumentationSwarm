@@ -47,3 +47,4 @@ This sections deals with the documentations of different devices and modules tha
 * [oDroid XU4 Setup]()
 * [BeagleBone Black Setup]()
 * [STM32 Microcontroller]()
+* [Best practices for layout of Motor Drivers](https://www.ti.com/lit/an/slva959a/slva959a.pdf)
